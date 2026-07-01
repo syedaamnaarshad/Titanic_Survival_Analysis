@@ -1,0 +1,12 @@
+# PyCharm files
+.idea/
+*.iml
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+
+# Virtual environment (optional)
+venv/
